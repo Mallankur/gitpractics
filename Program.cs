@@ -15,9 +15,9 @@ namespace Probleminpython
 
 
             finallist.Sort();
-            foreach (var item in finallist)
+            foreach (var i  in finallist)
             {
-                Console.WriteLine( item);
+                Console.WriteLine( i );
 
             }
 
