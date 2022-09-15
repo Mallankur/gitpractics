@@ -278,7 +278,8 @@ namespace Probleminpython
 
 
             Console.ReadLine();
-
+// i am adding somting please cheack it whatis this
+            
 
 
             
